@@ -1,6 +1,10 @@
 project start
 <<<<<<< HEAD
+<<<<<<< HEAD
 login feature added
 =======
 update from develop
 >>>>>>> develop
+=======
+payment feature added
+>>>>>>> feature-payment
