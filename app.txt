@@ -1,2 +1,6 @@
 project start
+<<<<<<< HEAD
 login feature added
+=======
+update from develop
+>>>>>>> develop
